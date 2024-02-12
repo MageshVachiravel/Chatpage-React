@@ -34,6 +34,12 @@ const person = [
         message:"we need to start a  new research center",
         time:"9:26",
         img:`https://ui-avatars.com/api/?name=Partick Kooler&background=0D8ABC&color=fff`
+    },
+    {
+        name:"Partick Kooler",
+        message:"we need to start a  new research center",
+        time:"9:26",
+        img:`https://ui-avatars.com/api/?name=Partick Kooler&background=0D8ABC&color=fff`
     }
 
 ]
